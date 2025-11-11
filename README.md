@@ -118,11 +118,3 @@ This is a Go-based e-commerce backend application. It provides a RESTful API for
 ├── go.mod
 ├── go.sum
 └── main.go           # Application entrypoint
-```
-
-## Statistics
-
-*   **Products:** 1000+
-*   **Users:** 5000+
-*   **Orders:** 10000+
-*   **API Requests:** 100,000+ per day
